@@ -3,18 +3,37 @@ body {
   padding: 0;
 }
 
-h2 {
+h1 {
   font-family: 'Abril Fatface', cursive;
   margin: auto;
   padding: 5rem 0 5rem 0;
-  text-align: center;
+  text-align: left;
+}
+
+h2 {
+  font-family: 'Abril Fatface', cursive;
+  margin: auto;
+  padding: 2rem 0 2rem 0;
+  display: inline-block;
 }
 
 p {
   font-family: 'Caveat', cursive;
-  margin: auto;
-  padding: 0 0 3rem 0;
+  margin: 2rem 0 2rem 0;
+  padding: none;
   text-align: center;
+  display: inline-block;
+  border-style: dotted;
+  border-radius: 1rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  padding: 2rem 0 1rem 0;
+  margin: auto;
+  display: block;
+  border-radius: 20rem;
 }
 
 .topBlock {
