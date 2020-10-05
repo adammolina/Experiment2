@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-family: 'Abril Fatface', cursive;
+  margin: auto;
+  padding: 5rem 0 5rem 0;
+  text-align: center;
+}
+
+p {
+  font-family: 'Caveat', cursive;
+  margin: auto;
+  padding: 0 0 3rem 0;
+  text-align: center;
+}
+
+.topBlock {
+  background-color: #C1DBCE;
+  padding: none;
+  margin: none;
+}
+
+.middleBlock {
+  background-color: #F1ECDF;
+  padding: none;
+  margin: none;
+}
+
+.bottomBlock {
+  background-color: #DBD1C1;
+  padding: none;
+  margin: none;
+}
